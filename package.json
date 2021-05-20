@@ -1,0 +1,23 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "MEAN Stack with Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Offych/mean-stack-ng.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Offych/mean-stack-ng/issues"
+  },
+  "homepage": "https://github.com/Offych/mean-stack-ng#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
